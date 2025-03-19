@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=CTTM_CLAMP_PCB\CTTM_CLAMP_PCB.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=CTTM_CLAMP_PCB\CTTM_CLAMP_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=CTTM_LIMITSWITCH_PCB\CTTM_LIMITSWITCH_PCB.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=CTTM_LIMITSWITCH_PCB\CTTM_LIMITSWITCH_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=CTTM_LOADCELL_PCB\CTTM_LOADCELL_PCB.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=CTTM_LOADCELL_PCB\CTTM_LOADCELL_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=CTTM_MAIN_PCB\CTTM_MAIN_PCB.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=CTTM_MAIN_PCB\CTTM_MAIN_PCB.PrjPcb

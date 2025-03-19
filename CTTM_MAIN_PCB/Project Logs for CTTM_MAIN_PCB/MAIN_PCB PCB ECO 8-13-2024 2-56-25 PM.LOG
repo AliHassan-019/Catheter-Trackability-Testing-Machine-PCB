@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=HEATER_SWITCH Pin=U-P2_3
+Added Pin To Net: NetName=HEATER_SWITCH Pin=U-P1_61
+Change Net Name : Old Net Name=NetLabel120 New Net Name=SCLIK_SPI3
+Change Net Name : Old Net Name=NetLabel123 New Net Name=WATER_INT
+Change Net Color : Old Net Color=RGB(255, 153, 0) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(234, 209, 220)
+Added Pin To Net: NetName=AIR_VALUE Pin=U-P1_31
+Added Net: Name=AIR_VALUE
+Added Pin To Net: NetName=MAX_LIM Pin=U-P1_3
+Added Net: Name=MAX_LIM
+Added Pin To Net: NetName=MIN_LIM Pin=U-P1_5
+Added Net: Name=MIN_LIM
+Added Pin To Net: NetName=MISO_SPI3 Pin=U-P1_44
+Added Net: Name=MISO_SPI3
+Added Pin To Net: NetName=MOSI_SPI3 Pin=U-P1_43
+Added Net: Name=MOSI_SPI3
+Added Pin To Net: NetName=PUMP_IN Pin=U-P1_33
+Added Net: Name=PUMP_IN
+Added Pin To Net: NetName=PUMP_OUT Pin=U-P1_59
+Added Net: Name=PUMP_OUT
+Added Pin To Net: NetName=SSEL_SPI3 Pin=U-P1_35
+Added Net: Name=SSEL_SPI3

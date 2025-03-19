@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SSEL_SPI3 Pin=U-P1_35
+Removed Pin From Net: NetName=ENABLE Pin=U-P1_47
+Added Pin To Net: NetName=SSEL_SPI3 Pin=U-P1_46
+Added Pin To Net: NetName=ENABLE Pin=U-P1_51
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(217, 210, 233)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(103, 78, 167)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(201, 218, 248)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(159, 197, 232)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(180, 167, 214)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(142, 124, 195)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(111, 168, 220)

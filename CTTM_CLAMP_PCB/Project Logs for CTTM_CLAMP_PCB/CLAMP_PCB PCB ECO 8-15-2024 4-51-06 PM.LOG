@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=O4 Pin=DS1-2
+Removed Pin From Net: NetName=O6 Pin=J6-2
+Removed Pin From Net: NetName=O7 Pin=J7-2
+Removed Pin From Net: NetName=O4 Pin=K1-A1
+Removed Pin From Net: NetName=HEATER_SWITCH Pin=U1-4
+Removed Pin From Net: NetName=VALUE_1 Pin=U1-5
+Removed Pin From Net: NetName=VALUE_2 Pin=U1-6
+Change Component Footprint: Designator=P1 Old Footprint=649004221732 New Footprint=649004221732
+Change Component Footprint: Designator=P2 Old Footprint=649004221732 New Footprint=649004221732
+Added Pin To Net: NetName=O7 Pin=DS1-2
+Added Pin To Net: NetName=O4 Pin=J6-2
+Added Pin To Net: NetName=O6 Pin=J7-2
+Added Pin To Net: NetName=O7 Pin=K1-A1
+Added Pin To Net: NetName=VALUE_1 Pin=U1-4
+Added Pin To Net: NetName=VALUE_2 Pin=U1-5
+Added Pin To Net: NetName=HEATER_SWITCH Pin=U1-6

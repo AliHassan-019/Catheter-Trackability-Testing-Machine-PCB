@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PUMP_IN Pin=J6-4
+Removed Pin From Net: NetName=PUMP_OUT Pin=J6-5
+Added Pin To Net: NetName=PUMP_OUT Pin=J6-4
+Added Pin To Net: NetName=PUMP_IN Pin=J6-5

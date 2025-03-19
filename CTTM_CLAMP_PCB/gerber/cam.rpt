@@ -1,0 +1,17 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: F:\PROJECTS\CTTM\CTTM_CLAMP_PCB\gerber\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0307		16
+ 2 		0.0472		20
+ 4 		0.0520		1
+ 5 		0.0551		8
+ 6 		0.1181		4
+ 7 		0.1181		4

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P? Old Footprint=649004221732 New Footprint=649004221732
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=+5V Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4

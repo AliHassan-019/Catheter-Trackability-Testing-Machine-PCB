@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LIMITSWITCH_PCB.PcbDoc   8/20/2024  9:26:54 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LIMITSWITCH_PCB.TXT
+EIA File   : LIMITSWITCH_PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.95mm (37mil)                                            Round             12        PTH        86.52mm (3.41inch)
+T2      1.4mm (55mil)                                             Round             4         PTH        13.90mm (0.55inch)
+T3      3mm (118mil)                                              Round             4         PTH        133.00mm (5.24inch)
+T4      3mm (118mil)                                              Round             2         NPTH       13.60mm (0.54inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              22
+
+Total Processing Time (hh:mm:ss) : 00:00:00

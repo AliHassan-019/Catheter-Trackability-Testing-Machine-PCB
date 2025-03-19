@@ -1,0 +1,53 @@
+Added Component: Designator=U1(MODULE_STM32F429I-DISC1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F429I-DISC1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F429I-DISC1/STMicroelectronics/view-part/504905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U(MODULE_STM32F429I-DISC1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F429I-DISC1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F429I-DISC1/STMicroelectronics/view-part/504905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_CHA0 Pin=U1-P2_19
+Added Net: Name=ADC_CHA0
+Added Pin To Net: NetName=HEATER_SWITCH Pin=U1-P2_3
+Added Net: Name=HEATER_SWITCH
+Added Pin To Net: NetName=LOADCELL Pin=U1-P2_20
+Added Net: Name=LOADCELL
+Added Pin To Net: NetName=LS1 Pin=U1-P2_31
+Added Net: Name=LS1
+Added Pin To Net: NetName=LS2 Pin=U1-P2_33
+Added Net: Name=LS2
+Added Pin To Net: NetName=LS3 Pin=U1-P2_35
+Added Net: Name=LS3
+Added Pin To Net: NetName=NetLabel118 Pin=U-P1_47
+Added Net: Name=NetLabel118
+Added Pin To Net: NetName=NetLabel119 Pin=U-P1_49
+Added Net: Name=NetLabel119
+Added Pin To Net: NetName=NetLabel120 Pin=U-P1_45
+Added Net: Name=NetLabel120
+Added Pin To Net: NetName=NetLabel121 Pin=U-P1_3
+Added Pin To Net: NetName=NetLabel121 Pin=U-P1_44
+Added Net: Name=NetLabel121
+Added Pin To Net: NetName=NetLabel122 Pin=U-P1_5
+Added Pin To Net: NetName=NetLabel122 Pin=U-P1_43
+Added Net: Name=NetLabel122
+Added Pin To Net: NetName=NetLabel123 Pin=U-P1_7
+Added Net: Name=NetLabel123
+Added Pin To Net: NetName=NetLabel124 Pin=U-P1_31
+Added Pin To Net: NetName=NetLabel124 Pin=U-P1_59
+Added Net: Name=NetLabel124
+Added Pin To Net: NetName=NetLabel125 Pin=U-P1_33
+Added Pin To Net: NetName=NetLabel125 Pin=U-P1_61
+Added Net: Name=NetLabel125
+Added Pin To Net: NetName=PULSE Pin=U-P1_53
+Added Net: Name=PULSE
+Added Pin To Net: NetName=TEMP Pin=U1-P2_24
+Added Net: Name=TEMP
+Added Class: Name=MAIN_SCH

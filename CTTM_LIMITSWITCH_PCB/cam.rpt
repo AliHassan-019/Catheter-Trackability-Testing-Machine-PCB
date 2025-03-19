@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: F:\PROJECTS\CTTM\CTTM_LIMITSWITCH_PCB\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0374		12
+ 2 		0.0551		4
+ 3 		0.1181		4
+ 4 		0.1181		2

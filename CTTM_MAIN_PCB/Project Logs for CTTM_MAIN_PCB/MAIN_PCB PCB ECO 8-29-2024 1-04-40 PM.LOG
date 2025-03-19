@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3V3 Pin=J2-1
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Room: Name=MAIN_SCH
+Added Room: Name=POWER_SUPPLY ATX24_PIN_SCH

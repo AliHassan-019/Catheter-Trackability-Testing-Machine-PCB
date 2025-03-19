@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=AGND Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=+3V3 Pin=P3-1
+Removed Pin From Net: NetName=+3V3_MC Pin=P3-2
+Removed Pin From Net: NetName=+5VIN Pin=P4-1
+Removed Pin From Net: NetName=+5V Pin=P4-2
+Removed Member From Class: ClassName=POWER_SUPPLY ATX24_PIN_SCH Member=P2
+Removed Member From Class: ClassName=POWER_SUPPLY ATX24_PIN_SCH Member=P3
+Removed Member From Class: ClassName=POWER_SUPPLY ATX24_PIN_SCH Member=P4
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(241, 194, 50)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(152, 0, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(120, 63, 4)
+Added Pin To Net: NetName=VALUE_1 Pin=U-P2_44
+Added Net: Name=VALUE_1
+Added Pin To Net: NetName=VALUE_2 Pin=U-P2_46
+Added Net: Name=VALUE_2

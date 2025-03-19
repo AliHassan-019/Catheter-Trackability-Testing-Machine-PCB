@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CLAMP_PCB.PcbDoc   8/20/2024  9:28:02 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CLAMP_PCB.TXT
+EIA File   : CLAMP_PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.78mm (31mil)                                            Round             16        PTH        64.14mm (2.53inch)
+T2      1.2mm (47mil)           +0mm (0mil)/-0.25mm (10mil)       Round             10        PTH        94.60mm (3.72inch)
+T3      1.2mm (47mil)                                             Round             10        PTH        78.81mm (3.10inch)
+T4      1.32mm (52mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T5      1.4mm (55mil)                                             Round             8         PTH        54.49mm (2.15inch)
+T6      3mm (118mil)                                              Round             4         PTH        205.75mm (8.10inch)
+T7      3mm (118mil)                                              Round             4         NPTH       69.71mm (2.74inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              53
+
+Total Processing Time (hh:mm:ss) : 00:00:00

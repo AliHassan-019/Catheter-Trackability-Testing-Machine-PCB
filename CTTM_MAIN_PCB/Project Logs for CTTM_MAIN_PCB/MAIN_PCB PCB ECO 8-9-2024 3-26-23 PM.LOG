@@ -1,0 +1,29 @@
+Added Component: Designator=U(MODULE_STM32F429I-DISC1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F429I-DISC1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F429I-DISC1/STMicroelectronics/view-part/504905/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLabel121 Pin=U-P1_3
+Added Pin To Net: NetName=NetLabel122 Pin=U-P1_5
+Added Pin To Net: NetName=NetLabel123 Pin=U-P1_7
+Added Pin To Net: NetName=NetLabel124 Pin=U-P1_31
+Added Pin To Net: NetName=NetLabel125 Pin=U-P1_33
+Added Pin To Net: NetName=NetLabel122 Pin=U-P1_43
+Added Pin To Net: NetName=NetLabel121 Pin=U-P1_44
+Added Pin To Net: NetName=NetLabel120 Pin=U-P1_45
+Added Pin To Net: NetName=NetLabel118 Pin=U-P1_47
+Added Pin To Net: NetName=NetLabel119 Pin=U-P1_49
+Added Pin To Net: NetName=PULSE Pin=U-P1_53
+Added Pin To Net: NetName=NetLabel124 Pin=U-P1_59
+Added Pin To Net: NetName=NetLabel125 Pin=U-P1_61
+Added Pin To Net: NetName=HEATER_SWITCH Pin=U-P2_3
+Added Pin To Net: NetName=ADC_CHA0 Pin=U-P2_19
+Added Pin To Net: NetName=LOADCELL Pin=U-P2_20
+Added Pin To Net: NetName=TEMP Pin=U-P2_24
+Added Pin To Net: NetName=LS1 Pin=U-P2_31
+Added Pin To Net: NetName=LS2 Pin=U-P2_33
+Added Pin To Net: NetName=LS3 Pin=U-P2_35
+Added Member To Class: ClassName=MAIN_SCH Member=Component U STM32F429I-DISC1

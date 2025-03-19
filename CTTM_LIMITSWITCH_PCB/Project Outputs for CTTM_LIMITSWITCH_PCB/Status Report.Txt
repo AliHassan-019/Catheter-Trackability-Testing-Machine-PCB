@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [CTTM_LIMITSWITCH_PCB.PrjPcb]
+   Generated File[LIMITSWITCH_PCB.TXT]
+   Generated File[LIMITSWITCH_PCB.DRL]
+   Generated File[LIMITSWITCH_PCB.LDP]
+   Generated File[LIMITSWITCH_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:26:54 AM On 8/20/2024

@@ -1,0 +1,15 @@
+Source PCB Design PCB1.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [CTTM_CLAMP_PCB.PrjPcb]
+   Generated File[PCB1_Copper_Signal_Top.gbr]
+   Generated File[PCB1_Copper_Signal_Bot.gbr]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:48:30 PM On 8/20/2024

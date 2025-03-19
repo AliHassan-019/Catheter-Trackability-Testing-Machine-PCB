@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PUMP_IN Pin=J6-5
+Removed Pin From Net: NetName=AIR_VALUE Pin=J6-6
+Added Pin To Net: NetName=AIR_VALUE Pin=J6-5
+Added Pin To Net: NetName=PUMP_IN Pin=J6-6
